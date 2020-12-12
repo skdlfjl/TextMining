@@ -1,0 +1,35 @@
+category0.txt : 서버 개발자
+category1.txt : 웹 개발자
+category2.txt : 프론트엔드 개발자
+category3.txt : 자바 개발자
+category4.txt : 안드로이드 개발자
+category5.txt : iOS 개발자
+category6.txt : 파이썬 개발자
+category7.txt : 데이터 엔지니어
+category8.txt : Node.js 개발자
+category9.txt : DevOps / 시스템 관리자
+category10.txt : 데이터 사이언티스트
+category11.txt : 시스템,네트워크 관리자
+category12.txt : C,C++ 개발자
+category13.txt : 개발 매니저
+category14.txt : 소프트웨어 엔지니어
+category15.txt : 머신러닝 엔지니어
+category16.txt : 빅데이터 엔지니어
+category17.txt : QA,테스트 엔지니어
+category18.txt : PHP 개발자
+category19.txt : 기술지원
+category20.txt : 프로덕트 매니저
+category21.txt : 보안 엔지니어
+category22.txt : 웹 퍼블리셔
+category23.txt : .NET 개발자
+category24.txt : 블록체인 플랫폼 엔지니어
+category25.txt : 하드웨어 엔지니어
+category26.txt : 임베디드 개발자
+category27.txt : 루비온레일즈 개발자
+category28.txt : 영상,음성 엔지니어
+category29.txt : CTO,Chief Technology Officer
+category30.txt : BI 엔지니어
+category31.txt : 그래픽스 엔지니어
+category32.txt : 크로스플랫폼 앱 개발자
+category33.txt : VR 엔지니어
+category34.txt : CIO,Chief Information Officer
