@@ -16,6 +16,20 @@ Text mining team project in Department of Bigdata engineering
 
 크롤링 사이트 : https://www.wanted.co.kr/
 
+## 실행 방법
+
+[주의] 취업 사이트의 '개발' 카테고리 안 채용공고 기준입니다. 다른 분야의 채용공고는 추가적인 작업이 필요할 수 있습니다.
+
+1. `bd_20171478/crawling_all_1211/crawling_all.py`
+
+2. `bd_20171478/cleansing_all_1211/data_cleansing_all.ipynb`
+
+3. `bd_20171478/cleansing_all_1211/data_stopwords_filtering_all.ipynb`
+
+4. `bd_20171478/vocabulary_all_1211/least_word_delete_all.ipynb`
+
+5. `bd_20171478/analysis/`
+
 
 ## 의존성
 
